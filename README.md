@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mfm2174
 - 👀 I’m interested in Drone and plant images analysis in R
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects related to agriculture/environment
+- 🌱 I’m currently working in Python and SQL
+- 💞️ I’m looking to collaborate on projects related to agriculture/environment/marketing
 - 📫 How to reach me ...
 
 <!---
