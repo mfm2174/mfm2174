@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfm2174
-- 👀 I’m interested in Drone and plant images analysis in R
+- 👀 R
 - 🌱 I’m currently working in Python and SQL
 - 💞️ I’m looking to collaborate on projects related to Data Science too
 - 📫 How to reach me ...
